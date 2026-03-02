@@ -1,5 +1,4 @@
-
-**# RapidRide — Realtime Service
+# RapidRide — Realtime Service
 
 Handles the realtime side of a ride-booking app. Built with Socket.io, Redis, and JWT auth.
 
@@ -23,4 +22,4 @@ npm install
 node index.js
 ```
 
-Needs a `.env` with `REDIS_URL`, `JWT_SECRET`, and `MONGODB_URI`.**
+Needs a `.env` with `REDIS_URL`, `JWT_SECRET`, and `MONGODB_URI`.
